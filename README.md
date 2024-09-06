@@ -4,18 +4,18 @@ This project demonstrates customer segmentation using K-Means clustering. The da
 
 ## 📑 Table of Contents
 
-- [Introduction]( 📊#introduction)
+- [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Elbow Method](#elbow-method)
 - [Clustering Results](#clustering-results)
 - [Installation](#installation)
 - [Usage](#usage)
 
-## 📊 Introduction
+## Introduction
 
 Customer segmentation is a technique to divide customers into distinct groups based on specific attributes, like their annual income and spending behavior. In this project, we use the K-Means clustering algorithm to group customers with similar characteristics together. This helps businesses to identify different types of customers and to create strategies tailored to each group's needs.
 
-## 📊 Dataset
+## Dataset
 
 The dataset used for this project is `Mall_Customers.csv`. It includes the following features:
 
@@ -25,15 +25,15 @@ The dataset used for this project is `Mall_Customers.csv`. It includes the follo
 - **Annual Income (k$)**: The annual income of the customer in thousand dollars.
 - **Spending Score (1-100)**: A score assigned by the mall based on customer behavior and spending nature.
 
-## 📈 Elbow Method
+## Elbow Method
 
 To determine the optimal number of clusters, the Elbow Method is used. It involves plotting the Within-Cluster Sum of Squares (WCSS) against the number of clusters and selecting the "elbow point" where the rate of decrease sharply slows down. 
 
-## 📉 Clustering Results
+## Clustering Results
 
 Using the optimal number of clusters determined by the Elbow Method, the K-Means algorithm is applied to the dataset. The resulting clusters are visualized in a scatter plot, with different colors representing different clusters.
 
-## ⚙️ Installation
+## Installation
 
 To run this project locally, you need to have Python installed along with the required libraries.
 
@@ -56,7 +56,7 @@ To run this project locally, you need to have Python installed along with the re
     python kmeans_clustering.py
     ```
 
-## 🚀 Usage
+## Usage
 
 - The script will output an Elbow plot to help you determine the optimal number of clusters.
 - After determining the optimal number, the K-Means algorithm will group the customers into clusters.
