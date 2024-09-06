@@ -4,14 +4,14 @@ This project demonstrates customer segmentation using K-Means clustering. The da
 
 ## 📑 Table of Contents
 
-- [📖 Introduction](#introduction)
+- [Introduction](#introduction)
 - [📊 Dataset](#dataset)
 - [📈 Elbow Method](#elbow-method)
 - [📉 Clustering Results](#clustering-results)
 - [⚙️ Installation](#installation)
 - [🚀 Usage](#usage)
 
-## 📖 Introduction
+## Introduction
 
 Customer segmentation is a technique to divide customers into distinct groups based on specific attributes, like their annual income and spending behavior. In this project, we use the K-Means clustering algorithm to group customers with similar characteristics together. This helps businesses to identify different types of customers and to create strategies tailored to each group's needs.
 
