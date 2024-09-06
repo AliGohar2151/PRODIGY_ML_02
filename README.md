@@ -10,8 +10,6 @@ This project demonstrates customer segmentation using K-Means clustering. The da
 - [📉 Clustering Results](#clustering-results)
 - [⚙️ Installation](#installation)
 - [🚀 Usage](#usage)
-- [🤝 Contributing](#contributing)
-- [📜 License](#license)
 
 ## 📖 Introduction
 
@@ -42,8 +40,8 @@ To run this project locally, you need to have Python installed along with the re
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-repository.git
-    cd your-repository
+    https://github.com/AliGohar2151/PRODIGY_ML_02.git
+    cd PRODIGY_ML_02
     ```
 
 2. Install the required dependencies:
