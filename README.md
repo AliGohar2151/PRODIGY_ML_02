@@ -4,7 +4,7 @@ This project demonstrates customer segmentation using K-Means clustering. The da
 
 ## 📑 Table of Contents
 
-- [Introduction](# 📊 introduction)
+- [Introduction]( 📊#introduction)
 - [Dataset](#dataset)
 - [Elbow Method](#elbow-method)
 - [Clustering Results](#clustering-results)
